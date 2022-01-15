@@ -1,7 +1,7 @@
-### Oie! eu sou o Sandro Rezende 👋
+### E aí! eu sou o Sandro Rezende 👋
 
 
-- 🔭 \hoje trabalho com Front-End
+- 🔭 Hoje trabalho com Front-End
 - 🌱 Atualmente estudando Desenvolvimento Mobile
 
 ##
