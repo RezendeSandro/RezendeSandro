@@ -1,8 +1,8 @@
 ### E aí! eu sou o Sandro Rezende 👋
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Atualmente estudando Desenvolvimento Mobile
+- 🔭 Hoje trabalho com Front-End.
+- 🌱 Atualmente estudando Desenvolvimento Mobile.
 
 ##
 
